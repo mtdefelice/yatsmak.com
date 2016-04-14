@@ -1,1 +1,3 @@
 # yatsmak.com
+
+Code to the website yatsmak.com ...
